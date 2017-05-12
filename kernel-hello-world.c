@@ -132,6 +132,6 @@
 		terminal_initialize();
 	 
 		/* Newline support is left as an exercise. */
-		terminal_writestring("Hello, kernel World!\n");
+		terminal_writestring("Goodbye world");
 		
 	}
